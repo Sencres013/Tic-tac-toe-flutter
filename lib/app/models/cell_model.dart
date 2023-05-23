@@ -4,6 +4,7 @@ import "package:tictactoe/app/models/win_screen.dart";
 
 enum CellState { X, O, empty }
 
+// ignore: must_be_immutable
 class Cell extends StatefulWidget {
   Cell({super.key});
 

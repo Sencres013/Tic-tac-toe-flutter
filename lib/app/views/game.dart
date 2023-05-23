@@ -36,6 +36,7 @@ class Game extends StatelessWidget {
                 ),
                 const Text(
                     "Couldn't figure out how to do this in landscape mode"),
+                // ignore: todo
                 // TODO: figure it out
               ],
             );
